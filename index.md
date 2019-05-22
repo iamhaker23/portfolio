@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome, to my humble abode
 
-You can use the [editor on GitHub](https://github.com/iamhaker23/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thanks for taking the time to find out a bit about me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I develop software and often wonder whether my Myers–Briggs Type\* actually means anything.
 
-### Markdown
+Please check out my [portfolio website](https://hakeembux.me) and [Github](https://github.com/iamhaker23/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Recent projects include video games, university assignments, a budgeting program and various websites. 
 
-```markdown
-Syntax highlighted code block
+Hopefully you'll find me to be pragmatic, prolific and productive. It comes from my experience across a corporate Telco. role (full-time), undergraduate study, casual jobs, side-projects and internship.
 
-# Header 1
-## Header 2
-### Header 3
+\* It was ENTP, by the way.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamhaker23/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm quite active on [Twitter](https://twitter.com/OriginalKeem) at the moment so that'll definitely get my attention.
