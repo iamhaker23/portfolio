@@ -11,7 +11,7 @@ Recent projects include video games, university assignments, a budgeting program
 
 Hopefully you'll find me to be pragmatic, prolific and productive. It comes from my experience across a corporate Telco. role (full-time), undergraduate study, casual jobs, side-projects and an internship.
 
-\* It was ENTP, by the way.
+\* I've had ENTP-T and INFJ-T. Perhaps I need to find a more reliable source?
 
 ### Contact
 
