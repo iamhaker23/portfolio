@@ -4,7 +4,7 @@ Thanks for taking the time to find out a bit about me.
 
 I develop software and often wonder whether my Myers–Briggs Type\* actually means anything.
 
-Please check out my <a href="https://hakeembux.me" target="_blank">portfolio website</a> 
+Please check out my <a href="https://junklibrary.wordpress.com" target="_blank">portfolio website</a> 
 and <a href="https://github.com/iamhaker23/" target="_blank">Github</a>.
 
 Recent projects include video games, university assignments, a budgeting program and various websites. 
